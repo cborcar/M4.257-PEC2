@@ -11,7 +11,7 @@ body {
   font-family: Inter, sans-serif;
 }
 
-.Fondo {
+#Fondo {
   background-image: url("fondo.0d6d5d8b.png");
   background-position: 100% 100%;
   background-repeat: no-repeat;
@@ -28,7 +28,7 @@ header {
   box-shadow: 0 5px 15px #000;
 }
 
-.Logo {
+#Logo {
   filter: invert();
   width: 190px;
   margin: auto;
@@ -41,7 +41,7 @@ header input {
 }
 
 header label {
-  font-size: 2.2rem;
+  font-size: 60px;
   display: none;
   position: absolute;
   top: 20px;
@@ -88,12 +88,20 @@ nav li a {
 }
 
 @media screen and (max-width: 767px), screen and (orientation: portrait) {
+  #Logo {
+    width: 280px;
+  }
+
   nav ul {
     display: none;
   }
 
-  header {
-    height: 115px;
+  nav li {
+    height: 80px;
+  }
+
+  nav li a {
+    font-size: 1.7rem;
   }
 
   header label, input:checked ~ ul {
@@ -124,6 +132,7 @@ blockquote {
   border: 1px solid #fff;
   border-left-width: 7px;
   padding: 10px 20px 20px;
+  font-size: 1rem;
   position: relative;
   top: 45vh;
 }
@@ -174,6 +183,24 @@ blockquote {
 
 .Derecha {
   float: right;
+}
+
+@media screen and (max-width: 767px), screen and (orientation: portrait) {
+  blockquote {
+    font-size: 1.2rem;
+  }
+
+  .Box {
+    max-width: 100%;
+  }
+
+  .Descripcion h3 {
+    font-size: 2rem;
+  }
+
+  .Descripcion p {
+    font-size: 1.2rem;
+  }
 }
 
 /*# sourceMappingURL=index.4d663569.css.map */
