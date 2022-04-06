@@ -44,9 +44,10 @@ header input {
 header label{
   display: none;
   position: absolute;
-  top: 20px;
-  right: 40px;
-  font-size: 60px;
+  top: 35px;
+  right: 50px;
+  font-size: 70px;
+  color: white;
 }
 
 nav {
@@ -90,7 +91,8 @@ nav li a {
 }
 
 @media screen and (max-width: 767px), screen and (orientation: portrait) {
-  #Logo{width: 280px;}
+  #Logo{width: 320px;}
+  header{padding-top: 20px; height: 200px;}
   nav ul {display: none;}
   nav li{height: 80px;}
   nav li a {font-size: 1.7rem;}
@@ -132,11 +134,11 @@ blockquote {
   top: 45vh;
 }
 
-#Flexbox{
+#Contenedor{
 	margin: 20px 0 60px 0; 
 }
 
-.Box{
+.Caja{
 	display: flex; 
 	width: 100%;
   max-width: 550px;
@@ -148,7 +150,7 @@ blockquote {
   text-align: justify;
 }
 
-.Box img{
+.Caja img{
   object-fit: contain;
   width: 35%;
   margin-right: 25px;
@@ -165,7 +167,6 @@ blockquote {
 
 .Descripcion a{
   color: white;
-  font-size: 0.8rem;
   display: block;
   right:0;
   text-align: right;
@@ -180,10 +181,13 @@ blockquote {
 }
 
 @media screen and (max-width: 767px), screen and (orientation: portrait) {
+  #Portada{height: 70vh; max-height: calc(100vh - 200px);}
   blockquote {
+    width: 75%;
+    max-width: 500px;
     font-size: 1.2rem;
   }
-  .Box{
+  .Caja{
     max-width: 100%;
   }
   .Descripcion h3{
