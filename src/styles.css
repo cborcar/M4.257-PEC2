@@ -21,6 +21,8 @@ body {
 }
 
 header {
+  width: 85vw;
+  margin: auto;
   height: 160px;
   position: sticky;
 	top: 0px;
@@ -44,15 +46,13 @@ header input {
 header label{
   display: none;
   position: absolute;
-  top: 35px;
-  right: 50px;
+  top: 40px;
+  right: 10px;
   font-size: 70px;
   color: white;
 }
 
 nav {
-  width: 85vw;
-  margin: auto;
   padding: 15px 0;
 }
 
@@ -91,8 +91,8 @@ nav li a {
 }
 
 @media screen and (max-width: 767px), screen and (orientation: portrait) {
-  #Logo{width: 320px;}
-  header{padding-top: 20px; height: 200px;}
+  #Logo{width: 350px; margin: 0 10px}
+  header{padding-top: 20px; height: 210px;}
   nav ul {display: none;}
   nav li{height: 80px;}
   nav li a {font-size: 1.7rem;}
@@ -131,7 +131,7 @@ blockquote {
   width: 65%;
   max-width: 400px;
   position: relative;
-  top: 45vh;
+  top: 43vh;
 }
 
 #Contenedor{
@@ -191,9 +191,9 @@ blockquote {
     max-width: 100%;
   }
   .Descripcion h3{
-    font-size: 2rem;
+    font-size: 1.7rem;
   }
   .Descripcion p{
-    font-size: 1.2rem;
+    font-size: 1.0rem;
   }
 }
