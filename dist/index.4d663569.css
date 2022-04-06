@@ -11,7 +11,7 @@ body {
   font-family: Inter, sans-serif;
 }
 
-#Fondo {
+.Fondo {
   background-image: url("fondo.0d6d5d8b.png");
   background-position: 100% 100%;
   background-repeat: no-repeat;
@@ -21,6 +21,7 @@ body {
 
 header {
   height: 160px;
+  color: #fff;
   background-color: #000;
   position: sticky;
   top: 0;
@@ -33,6 +34,18 @@ header {
   margin: auto;
   padding-top: 15px;
   display: block;
+}
+
+header input {
+  display: none;
+}
+
+header label {
+  font-size: 2.2rem;
+  display: none;
+  position: absolute;
+  top: 20px;
+  right: 40px;
 }
 
 nav {
@@ -74,14 +87,29 @@ nav li a {
   text-decoration: none;
 }
 
-main {
+@media screen and (max-width: 767px), screen and (orientation: portrait) {
+  nav ul {
+    display: none;
+  }
+
+  header {
+    height: 115px;
+  }
+
+  header label, input:checked ~ ul {
+    display: block;
+  }
+}
+
+main, article {
   width: 85vw;
   max-width: 850px;
-  min-height: calc(100vh - 160px);
   margin: 0 auto;
 }
 
 #Portada {
+  height: 80vh;
+  max-height: calc(100vh - 180px);
   background-image: url("portada.3fe7bb2a.jpg");
   background-position: center, center;
   background-repeat: no-repeat;
@@ -96,8 +124,8 @@ blockquote {
   border: 1px solid #fff;
   border-left-width: 7px;
   padding: 10px 20px 20px;
-  position: absolute;
-  bottom: 60px;
+  position: relative;
+  top: 45vh;
 }
 
 #Flexbox {
@@ -138,6 +166,10 @@ blockquote {
   font-size: .8rem;
   display: block;
   right: 0;
+}
+
+.Descripcion a:hover {
+  color: #9c1010;
 }
 
 .Derecha {

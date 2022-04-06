@@ -1,4 +1,4 @@
-8285
+8288
 79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2016\msFromTime.js132915684102650359 0
 101C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\brands\trello.svg132916438037989218 0
 59C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\domhandler132936497007509666 1
@@ -25,6 +25,10 @@
 91C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\core\test\fixtures\parcel\index.js132936497030860411 0
 94C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\lmdb\prebuilds\linux-x64\node.abi83.musl.node132936497011163121 0
 98C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\lib\create-prefix-transform-stream.js132936497007262747 0
+67C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\is-symbol\index.js132915684078733196 0
+79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\xxhash-wasm\esm\xxhash-wasm.js132915693303365702 0
+78C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2016\SameValue.js132915684105098743 0
+48C:\Users\Cayetano\Master\HTML1\PEC1\ejecutar.bat132937403310033924 0
 46C:\Users\Cayetano\Master\HTML1\PEC1\.postcssrc132915877705626635 0
 72C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\shell-quote\test\set.js132915684084653933 0
 105C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\folder-open.svg132916438022611077 0
@@ -45,7 +49,7 @@
 73C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\is-date-object\README.md132915684083399421 0
 76C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\spdx-license-ids\index.json132915684074600977 0
 99C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\paste.svg132916438030722651 0
-52C:\Users\Cayetano\Master\HTML1\PEC1\src\detalle.html132937297899557312 0
+52C:\Users\Cayetano\Master\HTML1\PEC1\src\detalle.html132937456315005323 0
 77C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\workers\lib\child.js132936497016436696 0
 84C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2021\GetSubstitution.js132915684096699953 0
 39C:\Users\Cayetano\Master\HTML1\PEC1\src132937296652064802 1
@@ -64,7 +68,7 @@
 75C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\5\ToInteger.js132915684109998942 0
 55C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@babel132915693276867789 1
 97C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2015\AbstractRelationalComparison.js132915684087705552 0
-40C:\Users\Cayetano\Master\HTML1\PEC1\dist132937297900672640 1
+40C:\Users\Cayetano\Master\HTML1\PEC1\dist132937456394098230 1
 77C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@swc\helpers\src\_type_of.js132936497015772067 0
 104C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\regular\calendar.svg132916438013323625 0
 88C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2021\IsBigIntElementType.js132915684098305985 0
@@ -72,16 +76,6 @@
 83C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\opus.js132915693367865430 0
 65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\msgpackr\pack.js132915693321817758 0
 93C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\string.prototype.trimstart\implementation.js132915684079595997 0
-72C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\color-convert\README.md132915693310668296 0
-114C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\brands\creative-commons-nc.svg132916438016952612 0
-103C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\regular\id-card.svg132916438026381591 0
-58C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\call-bind132915684083596581 1
-108C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\flag-checkered.svg132916438022361167 0
-84C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\resolve\test\precedence\bbb\main.js132936497008612323 0
-65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\inflight\LICENSE132915684076048856 0
-80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\lib\compress\evaluate.js132936497007660535 0
-46C:\Users\Cayetano\Master\HTML1\PEC1\src\app.js132915634911202810 0
-79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\config-default\LICENSE132936497033764552 0
 90C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\videotracks.js132915693371954609 0
 65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\lmdb\binding.gyp132936497008994542 0
 48C:\Users\Cayetano\Master\HTML1\PEC1\node_modules132937080495973990 1
@@ -107,12 +101,28 @@
 77C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2018\ToUint16.js132915684111399517 0
 83C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\scss132916438008365673 1
 103C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\briefcase.svg132916438012691197 0
-45C:\Users\Cayetano\Master\HTML1\PEC1\README.md132915928436564548 0
+45C:\Users\Cayetano\Master\HTML1\PEC1\README.md132937302660287915 0
 82C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2019\ToPropertyKey.js132915684110996313 0
 102C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\box-open.svg132916438012381387 0
 57C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\posthtml132915693305582845 1
 106C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\stopwatch-20.svg132916438036280004 0
 114C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\node-resolver-core\test\fixture\packages\source\source.js132936497021563776 0
+72C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\color-convert\README.md132915693310668296 0
+114C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\brands\creative-commons-nc.svg132916438016952612 0
+103C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\regular\id-card.svg132916438026381591 0
+58C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\call-bind132915684083596581 1
+108C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\flag-checkered.svg132916438022361167 0
+84C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\resolve\test\precedence\bbb\main.js132936497008612323 0
+65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\inflight\LICENSE132915684076048856 0
+80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\lib\compress\evaluate.js132936497007660535 0
+46C:\Users\Cayetano\Master\HTML1\PEC1\src\app.js132915634911202810 0
+79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\config-default\LICENSE132936497033764552 0
+63C:\Users\Cayetano\Master\HTML1\PEC1\src\images\curiosidades.jpg132937453394795808 0
+81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\lib\compress\inference.js132936497007962871 0
+71C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\nth-check\lib\parse.js132915693304377504 0
+81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@swc\helpers\src\_await_value.js132936497015361604 0
+86C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2021\LengthOfArrayLike.js132915684101497936 0
+63C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\once\README.md132915684075031773 0
 106C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\regular\hand-peace.svg132916438024638599 0
 78C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\lib\compress\common.js132936497007313016 0
 74C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\dist\bundle.min.js132936497007161930 0
@@ -121,9 +131,9 @@
 104C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\regular\face-meh.svg132916438020599451 0
 82C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\lmdb\dependencies\lz4\lib\lz4hc.h132936497009160145 0
 82C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2017\IsConstructor.js132915684098834553 0
-54C:\Users\Cayetano\Master\HTML1\PEC1\src\categoria.html132937297914652317 0
+54C:\Users\Cayetano\Master\HTML1\PEC1\src\categoria.html132937456309296614 0
 100C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@babel\highlight\node_modules\color-name\.npmignore132915693300228736 0
-52C:\Users\Cayetano\Master\HTML1\PEC1\src\enlaces.html132937158881617989 0
+52C:\Users\Cayetano\Master\HTML1\PEC1\src\enlaces.html132937456325058931 0
 65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\spdx-license-ids132915684075695726 1
 104C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\chart-line.svg132916438014421496 0
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\htmlnano\lib\presets\ampSafe.js132936497007509666 0
@@ -134,7 +144,7 @@
 65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\read-pkg\license132915684076397189 0
 83C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\xxhash-wasm\esm\xxhash-wasm.js.map132915693314435799 0
 103C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\life-ring.svg132916438027706506 0
-46C:\Users\Cayetano\Master\HTML1\PEC1\src\images132937275847863970 1
+46C:\Users\Cayetano\Master\HTML1\PEC1\src\images132937453449360621 1
 55C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\base-x132915693303466834 1
 62C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\lmdb\write.js132936497009513081 0
 68C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\regenerator-runtime132915693307373564 1
@@ -144,7 +154,7 @@
 104C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\chart-area.svg132916438014265242 0
 86C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\normalize-package-data\lib\typos.json132915684083677226 0
 90C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\text-stroke.js132915693370954158 0
-50C:\Users\Cayetano\Master\HTML1\PEC1\src\index.html132937297919845997 0
+50C:\Users\Cayetano\Master\HTML1\PEC1\src\index.html132937444217663834 0
 90C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\geolocation.js132915693362814768 0
 94C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\lmdb\prebuilds\linux-x64\node.abi88.musl.node132936497011563944 0
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\GT.js132915693363142725 0
@@ -158,7 +168,7 @@
 104C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\lmdb\dependencies\lz4\lib\dll\example\fullbench-dll.sln132936497012062544 0
 74C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\weak-lru-cache\index.d.ts132915693315986334 0
 68C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\lib\compress132936497008360712 1
-57C:\Users\Cayetano\Master\HTML1\PEC1\src\presentacion.html132937230882421361 0
+57C:\Users\Cayetano\Master\HTML1\PEC1\src\presentacion.html132937456319631431 0
 72C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\core\lib\public132936497032262106 1
 79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\yaml\browser\dist\parse-cst.js132915693328882143 0
 79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\5\MonthFromTime.js132915684102597151 0
@@ -169,7 +179,7 @@
 81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\css-what\lib\commonjs\parse.d.ts132936497008008161 0
 99C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\icons.svg132916438026251496 0
 100C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\supports-preserve-symlinks-flag\.github\FUNDING.yml132915684083125871 0
-50C:\Users\Cayetano\Master\HTML1\PEC1\src\styles.css132937288927457768 0
+50C:\Users\Cayetano\Master\HTML1\PEC1\src\styles.css132937456393245863 0
 61C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\import-fresh132915693302447680 1
 82C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2020\IteratorClose.js132915684100837157 0
 85C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\htmlnano\docs\docs\060-contribute.md132936497008994542 0
@@ -192,7 +202,7 @@
 79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\xxhash-wasm\cjs\xxhash-wasm.js132915693299264394 0
 81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\svgo\plugins\removeEmptyAttrs.js132936497008259383 0
 77C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\entities\lib\decode.d.ts.map132915693325977917 0
-56C:\Users\Cayetano\Master\HTML1\PEC1\src\images\fondo.png132937256535977957 0
+56C:\Users\Cayetano\Master\HTML1\PEC1\src\images\fondo.png132937451821396921 0
 91C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\hash\parcel-hash.darwin-arm64.node132936497030362364 0
 86C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\type-fest\source\set-return-type.d.ts132915693333267246 0
 66C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\define-properties132915684082080596 1
@@ -215,10 +225,10 @@
 55C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\wrappy132915684075998549 1
 101C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\msgpackr-extract\node_modules\node-gyp-build\LICENSE132936497009432268 0
 76C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\postcss\lib\previous-map.js132915693326210648 0
-65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\autoprefixer\lib132936497008833729 1
-67C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\chrome-trace-event132915693312014560 1
-77C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\htmlnano\docs\versioned_docs132936497008858857 1
 68C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\postcss\lib\rule.js132915693328114759 0
+65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\autoprefixer\lib132936497008833729 1
+77C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\htmlnano\docs\versioned_docs132936497008858857 1
+67C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\chrome-trace-event132915693312014560 1
 53C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\.bin132936497133659011 1
 92C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\css-selection.js132915693358568621 0
 74C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\memorystream\package.json132915684074399622 0
@@ -822,9 +832,6 @@
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2016\MinFromTime.js132915684102127524 0
 59C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\yaml\types132915693339208123 1
 53C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\pify132915684076498150 1
-68C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\nan\nan_callbacks.h132915693316785615 0
-88C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\runtime-browser-hmr\lib\loaders132936497022661102 1
-56C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\postcss132915693331799305 1
 105C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\regular\lightbulb.svg132916438027706506 0
 90C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js132915693315865369 0
 96C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2016\CanonicalNumericIndexString.js132915684090617016 0
@@ -832,6 +839,9 @@
 77C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\svgo\plugins\inlineStyles.js132936497007660535 0
 117C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\face-grin-tongue-squint.svg132916438020040551 0
 69C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\lib\minify.js132936497008008161 0
+68C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\nan\nan_callbacks.h132915693316785615 0
+88C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\runtime-browser-hmr\lib\loaders132936497022661102 1
+56C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\postcss132915693331799305 1
 66C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\csso\CHANGELOG.md132915693343663998 0
 84C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\node_modules\source-map\dist132915693315865369 1
 94C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\transformer-svg\src\SVGTransformer.js132936497009862545 0
@@ -1174,9 +1184,6 @@
 79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\yaml\dist\warnings-1000a372.js132915693341016378 0
 94C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2015\CreateDataPropertyOrThrow.js132915684091721123 0
 74C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\posthtml-parser\readme.md132915693314365227 0
-80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\GH.js132915693362966776 0
-104C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\volume-low.svg132916438040125368 0
-75C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\svgo\plugins\mergePaths.js132936497007761771 0
 70C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\yaml\browser\index.js132915693320534360 0
 72C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\memorystream\.npmignore132915684075439366 0
 76C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\define-properties\README.md132915684082499223 0
@@ -1299,8 +1306,6 @@
 66C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\get-port\index.js132915693301665293 0
 70C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\nanoid\bin\nanoid.cjs132936497006661294 0
 79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\xxhash-wasm\umd\xxhash-wasm.js132915693309263979 0
-67C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\is-symbol\index.js132915684078733196 0
-79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\xxhash-wasm\esm\xxhash-wasm.js132915693303365702 0
 101C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\brands\fedora.svg132916438021262314 0
 69C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\postcss\package.json132915693331799305 0
 84C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\autoprefixer\lib\hacks\flex-spec.js132936497007720959 0
@@ -1421,8 +1426,8 @@
 73C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\weak-lru-cache\README.md132915693314090626 0
 58C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\json5\lib132936497008199277 1
 67C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\boolbase\README.md132915693297757151 0
-80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\MD.js132915693366066438 0
 71C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\css-select\lib\sort.js132936497007877740 0
+80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\MD.js132915693366066438 0
 83C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\lib\compress\reduce-vars.js132936497008259383 0
 82C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2021\SameValueZero.js132915684105699407 0
 105C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\runtime-js\src\helpers\browser\preload-loader.js132936497021363389 0
@@ -1502,8 +1507,8 @@
 87C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\transformer-react-refresh-wrap132936497010261034 1
 78C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2017\ToBoolean.js132915684109099418 0
 75C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\cache\lib\index.js132936497030461846 0
-78C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\bin\run-s\help.js132936497006920940 0
 81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\htmlnano\docs\versioned_sidebars132936497008758255 1
+78C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\bin\run-s\help.js132936497006920940 0
 84C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2021\thisNumberValue.js132915684108008690 0
 70C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\safe-buffer\README.md132915693305416552 0
 97C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\bug.svg132916438012847552 0
@@ -1732,11 +1737,6 @@
 81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\regenerator-runtime\package.json132915693307373564 0
 93C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\lib\compress\drop-side-effect-free.js132936497007610428 0
 73C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\resolve\test\node_path\y132936497008199277 1
-81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\lib\compress\inference.js132936497007962871 0
-71C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\nth-check\lib\parse.js132915693304377504 0
-81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@swc\helpers\src\_await_value.js132936497015361604 0
-86C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2021\LengthOfArrayLike.js132915684101497936 0
-63C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\once\README.md132915684075031773 0
 82C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2018\IteratorClose.js132915684100796665 0
 74C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\lmdb\prebuilds\darwin-x64132936497011660627 1
 86C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\terser\lib\compress\native-objects.js132936497008058398 0
@@ -1792,6 +1792,9 @@
 84C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\svgo\plugins\convertStyleToAttrs.js132936497007313016 0
 76C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\entities\lib\index.d.ts.map132915693327441779 0
 76C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\resolve\test\precedence\aaa132936497008612323 1
+80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\GH.js132915693362966776 0
+104C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\volume-low.svg132916438040125368 0
+75C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\svgo\plugins\mergePaths.js132936497007761771 0
 72C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\mdn-data\css\types.json132915693335905753 0
 103C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\mtest_remap.c132936497008612323 0
 70C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\graph\LICENSE132936497024060817 0
@@ -2161,12 +2164,12 @@
 82C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\source-map-js\lib\mapping-list.js132915693311605380 0
 103C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\transformer-js\parcel-swc.linux-arm64-gnu.node132936497084363343 0
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\source-map-js\lib\quick-sort.js132915693312903773 0
-79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\normalize-package-data\LICENSE132915684076230663 0
-74C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\postcss\lib\document.d.ts132915693335124032 0
-70C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\hash\index.js132936497028661753 0
-81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\source-map-js\lib\source-node.js132915693321641132 0
 88C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\resolve\test\resolver\same_names\foo.js132936497007610428 0
 72C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\fraction.js\fraction.js132915868995915677 0
+79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\normalize-package-data\LICENSE132915684076230663 0
+81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\source-map-js\lib\source-node.js132915693321641132 0
+74C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\postcss\lib\document.d.ts132915693335124032 0
+70C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\hash\index.js132936497028661753 0
 73C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\shebang-command\index.js132915684075298673 0
 76C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\is-date-object\package.json132915684081147742 0
 103C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\mask-face.svg132916438028599180 0
@@ -2549,7 +2552,7 @@
 71C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\memorystream\README.md132915684076467974 0
 91C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\svg-fragment.js132915693370566005 0
 71C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\resolve\lib\homedir.js132936497007877740 0
-62C:\Users\Cayetano\Master\HTML1\PEC1\dist\index.0641b553.js.map132937276388553258 0
+62C:\Users\Cayetano\Master\HTML1\PEC1\dist\index.0641b553.js.map132937448582383586 0
 108C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\regular\object-group.svg132916438030024232 0
 82C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\resolve\lib\node-modules-paths.js132936497008713119 0
 115C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\brands\wizards-of-the-coast.svg132916438040754924 0
@@ -3083,8 +3086,8 @@
 92C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\node_modules\has-flag\readme.md132915684077644045 0
 99C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\node_modules\color-name\.eslintrc.json132915684080406111 0
 95C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\node_modules\color-name\.npmignore132915684075695726 0
-93C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\node_modules\color-name\index.js132915684078723089 0
 100C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@babel\highlight\node_modules\ansi-styles\readme.md132915693304479795 0
+93C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\node_modules\color-name\index.js132915684078723089 0
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\plugin\lib\PluginAPI.js132936497026861831 0
 92C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\node_modules\color-name\LICENSE132915684077749718 0
 96C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\lmdb\prebuilds\darwin-x64\node.abi72.glibc.node132936497010561851 0
@@ -3149,7 +3152,7 @@
 77C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\docs\node-api.md132936497007011412 0
 88C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\runtime-browser-hmr\src\loaders132936497022661102 1
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\docs\npm-run-all.md132936497007081822 0
-58C:\Users\Cayetano\Master\HTML1\PEC1\dist\index.0641b553.js132937276388553258 0
+58C:\Users\Cayetano\Master\HTML1\PEC1\dist\index.0641b553.js132937448582383586 0
 74C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\docs\run-p.md132936497007081822 0
 82C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\css-tree\lib\syntax\node\Block.js132915693321666504 0
 70C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\npm-run-all\bin\run-p132936497006860493 1
@@ -3290,7 +3293,7 @@
 63C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\nan\nan_weak.h132915693332668561 0
 74C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\dotenv\lib\cli-options.js132915693312266661 0
 65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\nan\package.json132915693296318709 0
-61C:\Users\Cayetano\Master\HTML1\PEC1\dist\portada.3fe7bb2a.jpg132937276388553258 0
+61C:\Users\Cayetano\Master\HTML1\PEC1\dist\portada.3fe7bb2a.jpg132937448582373627 0
 104C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\file-audio.svg132916438021262314 0
 64C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\clone\README.md132915693301288081 0
 71C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\nan\tools\package.json132915693341409282 0
@@ -4177,7 +4180,7 @@
 99C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\brands\css3.svg132916438017423075 0
 65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\escalade\license132915693296615970 0
 100C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\brands\react.svg132916438032390157 0
-59C:\Users\Cayetano\Master\HTML1\PEC1\dist\fondo.0d6d5d8b.png132937276388865768 0
+59C:\Users\Cayetano\Master\HTML1\PEC1\dist\fondo.0d6d5d8b.png132937451822697770 0
 70C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\escalade\package.json132915693307267269 0
 92C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\tabindex-attr.js132915693370711192 0
 89C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2017\IsAccessorDescriptor.js132915684098048505 0
@@ -4702,7 +4705,6 @@
 85C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2020\Number\leftShift.js132915684101442677 0
 79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\chrome-trace-event\LICENSE.txt132915693313267399 0
 79C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2020\ToBigInt64.js132915684108998688 0
-80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\MC.js132915693366041263 0
 99C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\css-case-insensitive.js132915693352281243 0
 78C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2020\ToBoolean.js132915684109139722 0
 76C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2020\ToInt16.js132915684109551463 0
@@ -5208,7 +5210,6 @@
 112C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\core\test\fixtures\invalid-source-not-file\package.json132936497032660550 0
 91C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2016\OrdinarySetPrototypeOf.js132915684103958644 0
 81C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2016\RegExpCreate.js132915684104499421 0
-78C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2016\SameValue.js132915684105098743 0
 72C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2016\Set.js132915684105850254 0
 99C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\internationalization.js132915693364518512 0
 84C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\es-abstract\2016\SetFunctionName.js132915684106097760 0
@@ -5738,7 +5739,7 @@
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\FJ.js132915693362084771 0
 105C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\chart-gantt.svg132916438014421496 0
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\FM.js132915693362165676 0
-53C:\Users\Cayetano\Master\HTML1\PEC1\dist\enlaces.html132937276388865768 0
+53C:\Users\Cayetano\Master\HTML1\PEC1\dist\enlaces.html132937456325915899 0
 71C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\transformer-js132936497117863381 1
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\FO.js132915693362216003 0
 93C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\array-includes.js132915693334751204 0
@@ -5774,6 +5775,7 @@
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\LS.js132915693365791155 0
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\LU.js132915693365791155 0
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\LY.js132915693365880277 0
+80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\MC.js132915693366041263 0
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\ME.js132915693366066438 0
 104C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\text-slash.svg132916438037292285 0
 80C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\regions\ML.js132915693366442531 0
@@ -6268,7 +6270,7 @@
 90C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\textcontent.js132915693370999334 0
 85C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\tls1-3.js132915693371169321 0
 73C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\brace-expansion\index.js132915684075349004 0
-64C:\Users\Cayetano\Master\HTML1\PEC1\dist\conciertos.c3898b6e.jpg132937276388865768 0
+64C:\Users\Cayetano\Master\HTML1\PEC1\dist\conciertos.c3898b6e.jpg132937448582613609 0
 92C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\token-binding.js132915693371279338 0
 84C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\touch.js132915693371299313 0
 90C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\caniuse-lite\data\features\typedarrays.js132915693371479325 0
@@ -6313,7 +6315,7 @@
 66C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\callsites\license132915693302366830 0
 71C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\callsites\package.json132915693296318709 0
 107C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\strikethrough.svg132916438036350118 0
-65C:\Users\Cayetano\Master\HTML1\PEC1\dist\discografia.7b1771fa.jpg132937276388553258 0
+65C:\Users\Cayetano\Master\HTML1\PEC1\dist\discografia.7b1771fa.jpg132937448582333641 0
 68C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\callsites\readme.md132915693304866015 0
 65C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\call-bind\.nycrc132915684075988455 0
 99C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\coins.svg132916438016312813 0
@@ -6812,7 +6814,7 @@
 87C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\transformer-babel\src\types.js132936497012959890 0
 87C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\transformer-babel\src\utils.js132936497012959890 0
 98C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\transformer-babel\lib\BabelTransformer.js132936497012862211 0
-58C:\Users\Cayetano\Master\HTML1\PEC1\dist\presentacion.html132937276388553258 0
+58C:\Users\Cayetano\Master\HTML1\PEC1\dist\presentacion.html132937456320496484 0
 85C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\transformer-babel\lib\jsx.js132936497012959890 0
 108C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@fortawesome\fontawesome-free\svgs\solid\arrow-down-z-a.svg132916438009700049 0
 72C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\source-map\dist132915693327797274 1
@@ -7228,7 +7230,7 @@
 139C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-no-engines\package.json132936497032860788 0
 136C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\index.js132936497030860411 0
 140C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\core\test\fixtures\plugins\node_modules\parcel-transformer-bad-engines\package.json132936497032860788 0
-51C:\Users\Cayetano\Master\HTML1\PEC1\dist\index.html132937276388553258 0
+51C:\Users\Cayetano\Master\HTML1\PEC1\dist\index.html132937448582323636 0
 95C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\core\test\fixtures\parcel\package.json132936497032860788 0
 97C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\core\test\fixtures\main-mjs\package.json132936497032763332 0
 100C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\@parcel\core\test\fixtures\main-global\package.json132936497032763332 0
@@ -8277,10 +8279,11 @@
 60C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\.bin\terser132936497131964252 0
 63C:\Users\Cayetano\Master\HTML1\PEC1\node_modules\.bin\which.ps1132936497131964252 0
 63C:\Users\Cayetano\Master\HTML1\PEC1\dist\blas_lezo.b106ac39.jpg132936545896413924 0
-55C:\Users\Cayetano\Master\HTML1\PEC1\dist\categoria.html132937297462367651 0
-53C:\Users\Cayetano\Master\HTML1\PEC1\dist\detalle.html132937297900516007 0
-59C:\Users\Cayetano\Master\HTML1\PEC1\dist\index.4d663569.css132937288928383151 0
-63C:\Users\Cayetano\Master\HTML1\PEC1\dist\index.4d663569.css.map132937288928383151 0
-58C:\Users\Cayetano\Master\HTML1\PEC1\dist\logo.cd13699a.svg132937276388865768 0
+55C:\Users\Cayetano\Master\HTML1\PEC1\dist\categoria.html132937456310219930 0
+66C:\Users\Cayetano\Master\HTML1\PEC1\dist\curiosidades.c5626c93.jpg132937453588391246 0
+53C:\Users\Cayetano\Master\HTML1\PEC1\dist\detalle.html132937456315854300 0
+59C:\Users\Cayetano\Master\HTML1\PEC1\dist\index.4d663569.css132937456394098230 0
+63C:\Users\Cayetano\Master\HTML1\PEC1\dist\index.4d663569.css.map132937456394098230 0
+58C:\Users\Cayetano\Master\HTML1\PEC1\dist\logo.cd13699a.svg132937448582603607 0
 58C:\Users\Cayetano\Master\HTML1\PEC1\dist\mano.58bbc312.jpg132937271946224259 0
-62C:\Users\Cayetano\Master\HTML1\PEC1\dist\miembros.e4c9883c.jpg132937276388553258 0
+62C:\Users\Cayetano\Master\HTML1\PEC1\dist\miembros.e4c9883c.jpg132937448582383586 0

@@ -12,7 +12,7 @@ body {
   background-color: rgb(0,0,0);
 }
 
-#Fondo{
+.Fondo{
   background-image: url('images/fondo.png');
 	background-repeat: no-repeat;
   background-position: right bottom;
@@ -26,6 +26,7 @@ header {
 	top: 0px;
   background-color: black;
   box-shadow: 0px 5px 15px black;
+  color: white;
 }
 
 .Logo {
@@ -34,6 +35,18 @@ header {
   margin: auto;
   display: block;
   padding-top: 15px;
+}
+
+header input {
+  display: none;
+}
+
+header label{
+  display: none;
+  position: absolute;
+  top: 20px;
+  right: 40px;
+  font-size: 2.2rem;
 }
 
 nav {
@@ -76,21 +89,36 @@ nav li a {
   text-decoration: none;
 }
 
-/*@media screen and (max-width: 767px) {
+@media screen and (max-width: 767px), screen and (orientation: portrait) {
   nav ul {
-    width: 85vw;
-    display: block;
+    display: none;
   }
-}*/
+  header{
+    height: 115px
+  }
+  header label{
+    display:block;
+  }
+  input:checked  ~ ul{
+    display:block;
+  }
+}
 
 main{
   width: 85vw;
   max-width: 850px;
-  min-height: calc(100vh - 160px);
+  margin: 0 auto;
+}
+
+article{
+  width: 85vw;
+  max-width: 850px;
   margin: 0 auto;
 }
 
 #Portada{
+  height: 80vh;
+  max-height: calc(100vh - 180px);
   background-image: url('images/portada.jpg');
 	background-repeat: no-repeat;
   background-position: center, center;
@@ -103,10 +131,10 @@ blockquote {
   padding: 10px 20px 20px 20px;
   border-left: 7px solid white;
   background-color: rgba(0,0,0,0.8);
-  position: absolute;
   width: 65%;
   max-width: 400px;
-  bottom: 60px;
+  position: relative;
+  top: 45vh;
 }
 
 #Flexbox{
@@ -148,7 +176,10 @@ blockquote {
   text-align: right;
 }
 
-/*Esta clase hace que la caja de síntoma se posicione a la derecha*/
+.Descripcion a:hover{
+  color: rgb(156, 16, 16);
+}
+
 .Derecha{
 	float: right;
 }
