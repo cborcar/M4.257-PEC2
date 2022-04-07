@@ -75,6 +75,18 @@ nav li {
   justify-content: center;
 }
 
+nav li a {
+  color: rgb(255, 255, 255);
+  font-size: 0.9rem;
+  font-weight: bold;
+  text-decoration: none;
+  text-align: center;
+  line-height: 35px;
+  display:block;
+  width: 100%;
+  height: 35px;
+}
+
 nav li:hover {
   background-color: rgb(148, 81, 81);
 }
@@ -83,19 +95,13 @@ nav li:hover {
   background-color: rgb(156, 16, 16);
 }
 
-nav li a {
-  color: rgb(255, 255, 255);
-  font-size: 0.9rem;
-  font-weight: bold;
-  text-decoration: none;
-}
 
 @media screen and (max-width: 767px), screen and (orientation: portrait) {
   #Logo{width: 350px; margin: 0 10px}
   header{padding-top: 20px; height: 210px;}
   nav ul {display: none;}
   nav li{height: 80px;}
-  nav li a {font-size: 1.7rem;}
+  nav li a {font-size: 1.7rem; height:80px; line-height: 80px;}
   header label{display:block;}
   input:checked  ~ ul{display:block;}
 }
@@ -188,7 +194,7 @@ blockquote {
 	float: right;
 }
 
-.ContenedorFlex3 {
+.ContenedorFlex {
   width: 90%;
   margin: auto;
   display: flex;
@@ -197,15 +203,24 @@ blockquote {
   justify-content: center;
 }
 
-.ContenedorFlex3 > .Flex3Item {
-  flex: 1 1 30%; /*grow | shrink | basis */
-  height: auto;
-  margin: 20px 0;
-}
-
-.Flex3Item img{
+.ContenedorFlex img{
   width: 90%;
   margin-left: 5%;
+  margin: 20px 0 20px 5%;
+}
+
+.Flex3x1Item {
+  flex: 1 1 30%; /*grow | shrink | basis */
+}
+
+.Flex2x2Item {
+  flex: 2 1 40%; /*grow | shrink | basis */
+}
+
+.Flex2x2Item iframe{
+	border: none;
+	width: 90%;
+	min-height: 250px;
 }
 
 @media screen and (max-width: 767px), screen and (orientation: portrait) {
@@ -224,7 +239,10 @@ blockquote {
   .Descripcion p{
     font-size: 0.95rem;
   }
-  .ContenedorFlex3{
+  .ContenedorFlex{
     display:block;
+  }
+  .Flex2x2Item iframe{
+    width: 100%;
   }
 }
