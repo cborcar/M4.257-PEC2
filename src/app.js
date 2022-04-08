@@ -20,7 +20,7 @@ export function NumAleatorio() {
         document.getElementById("Img1").style.display = "flex";
     }else if (Numero < 3){
         document.getElementById("TextoResultado").innerHTML = "Puntuación: 2 (Rapero)";
-        document.getElementById("DescripcionResultado").innerHTML = "No tan perseguidos como los reguetoneros, pero bastante odiados. Puedes pasar desapercibido si no dices palabras como 'bro'.";
+        document.getElementById("DescripcionResultado").innerHTML = "No tan perseguidos como los reguetoneros, pero bastante odiados por los heavys. Puedes pasar desapercibido si no dices palabras como 'bro'.";
         document.getElementById("Img2").style.display = "flex";
     }else if  (Numero < 4){
         document.getElementById("TextoResultado").innerHTML = "Puntuación: 3 (Popero)";

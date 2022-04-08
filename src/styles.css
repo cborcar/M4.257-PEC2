@@ -155,7 +155,7 @@ blockquote {
   border: 1px solid white;
   background-color: rgba(0,0,0,0.8);
 	margin-bottom: 2rem;
-  padding: 1.1rem 2rem 3rem 2rem;
+  padding: 1.1rem 1.8rem 1.8rem 1.5rem;
   text-align: justify;
 }
 
@@ -260,7 +260,7 @@ li{
   #Portada{height: 70vh; max-height: calc(100vh - 210px);}
   blockquote {width: 75%; max-width: 33rem; font-size: 1.3rem;}
   blockquote p{font-size: 1.3rem}
-  .Contenedor{max-width: 100%; padding: 1.1rem 4rem 5rem 4rem; margin-bottom: 2.4rem;}
+  .Contenedor{max-width: 100%; padding: 1.1rem 2rem 2rem 2rem; margin-bottom: 2.4rem;}
   .Contenedor h1{margin: 2.2rem 0; font-size: 2.5rem;}
   .Contenedor h2{margin: 2.2rem 0;}
   .Descripcion h3{font-size: 1.8rem;}
