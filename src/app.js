@@ -20,11 +20,11 @@ export function NumAleatorio() {
         document.getElementById("Img1").style.display = "flex";
     }else if (Numero < 3){
         document.getElementById("TextoResultado").innerHTML = "Puntuación: 2 (Rapero)";
-        document.getElementById("DescripcionResultado").innerHTML = "No tan perseguidos como los reguetoneros, pero bastante odiados por los heavys. Puedes pasar desapercibido si no dices palabras como 'bro'.";
+        document.getElementById("DescripcionResultado").innerHTML = "No tan perseguidos como los reguetoneros, pero bastante odiados por los heavys. Puedes pasar desapercibido si no dices palabras raras como 'bro'.";
         document.getElementById("Img2").style.display = "flex";
     }else if  (Numero < 4){
         document.getElementById("TextoResultado").innerHTML = "Puntuación: 3 (Popero)";
-        document.getElementById("DescripcionResultado").innerHTML = "Todavía tienes arreglo, pero tienes que trabajar muy duro. Empieza escuchando a Dio, bebiendo mucha cerveza y vistiéndote de negro y poco a poco te harás un camino hacia el metal.";
+        document.getElementById("DescripcionResultado").innerHTML = "Todavía tienes arreglo, pero tienes que trabajar muy duro. Empieza escuchando a Dio, bebe mucha cerveza y vístete de negro y poco a poco te harás un camino hacia el metal.";
         document.getElementById("Img3").style.display = "flex";
     }else if  (Numero < 5){
         document.getElementById("TextoResultado").innerHTML = "Puntuación: 4 (Metalero)";
