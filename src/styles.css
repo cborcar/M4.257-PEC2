@@ -132,12 +132,12 @@ blockquote {
   width: 65%;
   max-width: 26rem;
   text-align: justify;
-  position: relative;
+  position:relative;
   top: 43vh;
 }
 
 #Portada{
-  height: 80vh;
+  height: 72vh;
   max-height: calc(100vh - 160px);
   background-image: url('images/portada.jpg');
 	background-repeat: no-repeat;
