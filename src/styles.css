@@ -301,10 +301,16 @@ li{
 }
 
 @media screen and (max-width: 767px), screen and (orientation: portrait) {
+  #Portada{
+    height: 55vh;
+    max-height: calc(100vh - 200px);
+  }
+
   blockquote {
     padding: 0.5rem 1.3rem 1.4rem 1.3rem;
     width: 100%;
     margin: 0;
+    top: 30vh;
   }
   .Contenedor {
     width: 100%;
