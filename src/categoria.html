@@ -4,16 +4,18 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PEC1 - Herramientas HTML y CSS</title>
-    <meta name="description" content="PEC 1 de la asignatura Herramientas HTML y CSS.">
+    <title>PEC2 - Herramientas HTML y CSS</title>
+    <meta name="description" content="PEC 2 de la asignatura Herramientas HTML y CSS.">
     <link rel="stylesheet" href="styles.css">
 </head>
 
-
-<body id="Fondo">
+<body id="fondo">
     <header>
         <!-- Logo -->
-        <img id="Logo" src="images/logo.svg" alt="Logotipo Manowar">
+        <div id="logo">
+            <img src="images/logo.png" alt="Logotipo Manowar Fans">
+            <span>Fans of Manowar</span>
+        </div>
         <!-- Menú de navegación -->
         <nav>
 			<input type="checkbox" id="menu">
@@ -27,13 +29,14 @@
         </nav>
     </header>
 
+	<!-- Main -->
     <main>
-		<div class="Margen">
+		<div class="margen">
 
 			<!-- Contenedor -->
-			<div class="Contenedor Flex">
+			<div class="contenedor flex">
 				<img src="images/discografia.jpg" alt="Discografía">
-				<div class="Descripcion">
+				<div class="descripcion">
 					<h3>Discografía</h3>
 					<p>Manowar es una banda estadounidense de heavy metal experta en crear auténticos temazos. Gracias a su extensa discografía, los Reyes del Metal han hecho sacudir millones de cabezas en todo el mundo. ¡Sin desperdicio! </p>
 					<a href="detalle.html">Más información</a>
@@ -41,9 +44,9 @@
 			</div>
 
 			<!-- Contenedor -->
-			<div class="Contenedor Flex Derecha">
+			<div class="contenedor flex derecha">
 				<img src="images/miembros.jpg" alt="Miembros">
-				<div class="Descripcion">
+				<div class="descripcion">
 					<h3>Miembros de la banda</h3>
 					<p>Desde que el bajista Joey DeMaio conoció al guitarrista Ross the Boss y fundaron el grupo en 1979, varios genios del metal han formado parte de la banda. ¡Conócelos a todos!</p>
 					<a href="detalle.html">Más información</a>
@@ -51,9 +54,9 @@
 			</div>
 
 			<!-- Contenedor -->
-			<div class="Contenedor Flex">
+			<div class="contenedor flex">
 				<img src="images/conciertos.jpg" alt="Conciertos">
-				<div class="Descripcion">
+				<div class="descripcion">
 					<h3>Conciertos y eventos</h3>
 					<p>Con una trayectoria de más de 40 años a sus espaldas, aún hoy en día siguen levantando cuernos en eventos y conciertos como si por ellos no hubieran pasado los años. Por algo son conocidos como los Reyes del Metal.</p>
 					<a href="detalle.html">Más información</a>
@@ -61,9 +64,9 @@
 			</div>
 
 			<!-- Contenedor -->
-			<div class="Contenedor Flex Derecha">
+			<div class="contenedor flex derecha">
 				<img src="images/curiosidades.jpg" alt="Curiosidades">
-				<div class="Descripcion">
+				<div class="descripcion">
 					<h3>Curiosidades</h3>
 					<p>La archiconocida banda no solo es conocida por crear auténticos himnos musicales cantados en todo el mundo, sino que también son conocidos por ser maestros de la innovación y por tener varios récords mundiales. ¡Entérate de todo! </p>
 					<a href="detalle.html">Más información</a>
@@ -71,6 +74,35 @@
 			</div>
 		</div>
     </main>
+
+    <!-- Footer -->
+    <footer>
+		<div id="footer" class="contenedor">
+            <div id="footerLogo">
+                <img src="images/logo.png" alt="Logotipo Manowar Fans">
+            </div>
+
+            <div>
+                <h3>Navegación</h3>
+                <ul>
+                    <li><a href="index.html">Inicio</a></li>
+                    <li><a href="categoria.html">Categoría</a></li>
+                    <li><a href="presentacion.html">Presentación</a></li>
+                    <li><a href="enlaces.html">Enlaces</a></li>
+                </ul>
+            </div>
+
+            <div>
+                <h3>Otros enlaces</h3>
+                <ul>
+                    <li><a href="https://manowar.com/">Sitio oficial</a></li>
+                    <li><a href="https://es.wikipedia.org/wiki/Manowar">Wikipedia</a></li>
+                    <li><a href="https://es-es.facebook.com/manowar">Facebook</a></li>
+                    <li><a href="https://twitter.com/manowar?lang=es">Twitter</a></li>
+                </ul>
+            </div>
+        </div>
+	</footer>
 </body>
 
 </html>
