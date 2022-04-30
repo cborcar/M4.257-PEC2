@@ -13,7 +13,12 @@
     <header>
         <!-- Logo -->
         <div id="logo">
-            <img src="images/logo.png" alt="Logotipo Manowar Fans">
+            <picture>
+                <source srcset="images/logo.png?as=avif" type="image/avif" />
+                <source srcset="images/logo.png?as=webp" type="image/webp" />
+                <source srcset="images/logo.png?as=webp&width=120" type="image/webp" />
+                <img src="images/logo.png?width=200" alt="Logotipo Fans of Manowar" />
+            </picture>
             <span>Fans of Manowar</span>
         </div>
         <!-- Menú de navegación -->
@@ -33,7 +38,13 @@
     <main>
         <div id="portada">
             <div id="imagenClip">
-                <img src="images/fuego.jpg">
+                <img srcset="images/fuego-480w.jpg 480w,
+                            images/fuego-800w.jpg 800w,
+                            images/fuego-1200w.jpg 1200w"
+                            sizes="(max-width: 500px) 500px,
+                                (max-width: 800px) 800px,
+                                800px"
+                            src="images/fuego-1200w.jpg" alt="Fuego">
             </div>
             <h2 id="tituloClip">Página no oficial de Manowar de fans para fans</h2>
         </div>
@@ -51,6 +62,7 @@
                 <ul>
                     <li><a href="index.html">Inicio</a></li>
                     <li><a href="categoria.html">Categoría</a></li>
+                    <li><a href="detalle.html">Detalle</a></li>
                     <li><a href="presentacion.html">Presentación</a></li>
                     <li><a href="enlaces.html">Enlaces</a></li>
                 </ul>
@@ -63,6 +75,7 @@
                     <li><a href="https://es.wikipedia.org/wiki/Manowar">Wikipedia</a></li>
                     <li><a href="https://es-es.facebook.com/manowar">Facebook</a></li>
                     <li><a href="https://twitter.com/manowar?lang=es">Twitter</a></li>
+                    <li><a href="https://www.instagram.com/manowarband_official/?hl=es">Instagram</a></li>
                 </ul>
             </div>
         </div>

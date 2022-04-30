@@ -14,7 +14,8 @@
     "parcel": "^2.4.1",
     "postcss": "^8.4.12",
     "postcss-preset-env": "^7.4.3",
-    "rimraf": "^3.0.2"
+    "rimraf": "^3.0.2",
+    "sharp": "^0.29.3"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.1.1"

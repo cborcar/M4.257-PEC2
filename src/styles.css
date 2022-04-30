@@ -57,7 +57,6 @@ header {
 
 #logo img{
   vertical-align: middle;
-  filter: invert(100%);
   width: 120px;
   margin-right: 40px;
 }
@@ -228,7 +227,7 @@ main, article, footer{
 }
 
 #tituloClip {
-  background: url('images/fuego.jpg');
+  background: url('images/fuego-480w.jpg');
   background-clip: text;
   color: transparent;
   text-align: center;
@@ -512,7 +511,6 @@ li{
 }
 
 #footerLogo img {
-  filter: invert(100%);
   width: 160px;
 }
 
