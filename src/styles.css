@@ -369,6 +369,8 @@ main, article, footer{
   margin: 0 auto;
   transform: rotate(3deg);
   animation: cambioColor 10s infinite;
+  width: 100%;
+  max-width: 500px;
 }
 
 @keyframes cambioColor {
