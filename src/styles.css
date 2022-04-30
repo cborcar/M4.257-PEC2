@@ -294,9 +294,34 @@ main, article, footer{
   color: rgb(156, 16, 16);
 }
 
-.derecha{
+.categoriaIzquierda {
+  animation-duration: 1s;
+  animation-name: desplazamientoIzquierda;
+}
+
+.categoriaDerecha{
   margin-left: auto; 
   margin-right: 0;
+  animation-duration: 1s;
+  animation-name: desplazamientoDerecha;
+}
+
+@keyframes desplazamientoIzquierda { 
+  from {
+    margin-left: 10%;
+  }
+  to {
+    margin-left: 0%;
+  } 
+}
+
+@keyframes desplazamientoDerecha { 
+  from {
+    margin-right: 10%;
+  }
+  to {
+    margin-right: 0%;
+  } 
 }
 
 .flexDiscos, .flexVideos {
@@ -390,6 +415,10 @@ li{
     width: 100%;
     font-size: 0.9rem;
     padding: 1rem 1.1rem 1.3rem 1.1rem;
+  }
+
+  .categoriaIzquierda, .categoriaDerecha {
+    animation-name: none;
   }
   
   .margen{
