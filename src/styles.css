@@ -250,31 +250,6 @@ main, article, footer{
   text-align: justify;
 }
 
-#portadaDiscografia {
-  width:  100%;
-  max-width: 490px;
-  display: block;
-  margin: 0 auto;
-  transition: 0.1s linear;
-}
-
-#portadaDiscografia img{
-  width: 100%;
-  animation-duration: 2s;
-  animation-name: agrandamiento;
-}
-
-@keyframes agrandamiento {
-  0% {
-    width: 30%;
-    opacity: 0;
-  }
-  100% {
-    width: 100%;
-    opacity: 1;
-  }
-}
-
 .flex{
 	display: flex; 
   max-width: 550px;
@@ -326,6 +301,29 @@ main, article, footer{
   } 
 }
 
+#portadaDiscografia {
+  width:  100%;
+  max-width: 490px;
+  display: block;
+  margin: 0 auto;
+  transition: 0.1s linear;
+}
+
+#portadaDiscografia img{
+  width: 100%;
+  animation-duration: 1.5s;
+  animation-name: aparecimiento;
+}
+
+@keyframes aparecimiento {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
 .flexDiscos, .flexVideos {
   width: 90%;
   margin: auto;
@@ -363,6 +361,31 @@ main, article, footer{
 	border: none;
 	width: 90%;
 	height: 250px;
+}
+
+#logoVectorial {
+  filter: invert(61%) sepia(97%) saturate(4306%) hue-rotate(92deg) brightness(127%) contrast(120%);
+  display: block;
+  margin: 0 auto;
+  transform: rotate(3deg);
+  animation: cambioColor 10s infinite;
+}
+
+@keyframes cambioColor {
+  25%  { /*Rojo*/
+    filter: invert(12%) sepia(99%) saturate(7500%) hue-rotate(7deg) brightness(99%) contrast(113%);
+  }
+  50% { /*Amarillo*/
+    transform: rotate(-3deg);
+    filter: invert(97%) sepia(62%) saturate(4293%) hue-rotate(360deg) brightness(110%) contrast(103%);
+  }
+  75%  { /*Azul*/
+    filter: invert(7%) sepia(99%) saturate(7292%) hue-rotate(248deg) brightness(116%) contrast(141%);
+  }
+  100% { /*Verde*/
+    transform: rotate(3deg);
+    filter: invert(61%) sepia(97%) saturate(4306%) hue-rotate(92deg) brightness(127%) contrast(120%);
+  }
 }
 
 li{
