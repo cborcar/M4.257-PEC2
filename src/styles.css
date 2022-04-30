@@ -255,6 +255,7 @@ main, article, footer{
   max-width: 490px;
   display: block;
   margin: 0 auto;
+  transition: 0.1s linear;
 }
 
 #portadaDiscografia img{
@@ -288,6 +289,7 @@ main, article, footer{
 .descripcion a{
   color: rgb(255,255,255);
   float: right;
+  transition: 0.3s linear;
 }
 
 .descripcion a:hover{
@@ -339,6 +341,15 @@ main, article, footer{
   margin: 1rem;
 }
 
+.flexDiscos img{
+  opacity: 70%;
+  transition: 0.3s linear;
+}
+
+.flexDiscos img:hover{
+  opacity: 100%;
+}
+
 .flexDiscosItem {
   flex: 1 1 30%; /*grow | shrink | basis */
 }
@@ -365,6 +376,7 @@ li{
 
 .enlaceBasico, .enlaceSubrayado{
   color: rgb(255,255,255);
+  transition: 0.3s linear;
 }
 
 .enlaceBasico{
@@ -487,6 +499,7 @@ li{
 #footer a {
   color: rgb(255, 255, 255);
   text-decoration: none;
+  transition: 0.3s linear;
 }
 #footer a:hover {
   color: rgb(156, 16, 16);
