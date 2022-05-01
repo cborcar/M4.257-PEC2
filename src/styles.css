@@ -502,6 +502,10 @@ li{
 
 /* Dispositivos pequeños (móviles) */
 @media screen and (max-width: 576px) {
+  .grid{
+    gap: 15px;
+  }
+
   .flexDiscos {
     display: block;
   }
