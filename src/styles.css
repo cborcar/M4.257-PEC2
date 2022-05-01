@@ -29,7 +29,10 @@ h3{
 }
 
 #fondo{
-  background-image: url('images/fondo.jpg');
+  background-image: image-set(
+    url("images/fondo-490.jpg") 0.5x, 
+    url("images/fondo-980.jpg") 1x);
+  background-image: url("images/fondo-980.jpg");
 	background-repeat: no-repeat;
   background-position: right bottom;
   background-size: contain;
@@ -204,7 +207,11 @@ main, article, footer{
 
 #portada {
   margin: 80px auto 0 auto;
-  background-image: url('images/fuego2.jpg');
+  background-image: url("images/fuego2-1200w.jpg");
+  background-image: image-set(
+    url("images/fuego2-480w.jpg") 480w,
+    url("images/fuego2-800w.jpg") 800w,
+    url("images/fuego2-1200w.jpg") 1200w);
 	background-repeat: no-repeat;
   background-position: center, center;
 	background-size: cover;
@@ -227,7 +234,11 @@ main, article, footer{
 }
 
 #tituloClip {
-  background: url('images/fuego-480w.jpg');
+  background-image: url("images/fuego-1200w.jpg");
+  background-image: image-set(
+    url("images/fuego-480w.jpg") 480w,
+    url("images/fuego-800w.jpg") 800w,
+    url("images/fuego-1200w.jpg") 1200w);
   background-clip: text;
   color: transparent;
   text-align: center;
@@ -249,15 +260,17 @@ main, article, footer{
   text-align: justify;
 }
 
-.flex{
-	display: flex; 
+.grid{
+  display: grid;
   max-width: 550px;
+  grid-template-columns: 35% auto;
+  gap: 25px;
+  align-items: center;
 }
 
-.flex img{
-  object-fit: contain;
-  width: 35%;
-  margin-right: 1.5rem;
+.gridImagen img{
+  width: 100%;
+  padding-top: 10px;
 }
 
 .descripcion a{
@@ -451,6 +464,10 @@ li{
     width: 100%;
     font-size: 0.9rem;
     padding: 1rem 1.1rem 1.3rem 1.1rem;
+  }
+
+  .grid{
+    grid-template-columns: 40% auto;
   }
 
   .categoriaIzquierda, .categoriaDerecha {
